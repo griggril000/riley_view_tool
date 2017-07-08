@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RileyViewTool::Renderer.copyright 'Riley Grigg', 'All rights reserved'
+```
 
 ## Development
 
